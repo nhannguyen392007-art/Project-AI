@@ -1,0 +1,17 @@
+{
+  "currency": "VND",
+  "unit": "trieu_VND",
+  "topDown": {
+    "tam": 5110500,
+    "samShare": 0.035,
+    "somShare": 0.0046,
+    "cagr": 0.095,
+    "years": 3
+  },
+  "bottomUp": {
+    "buyers": 120000,
+    "icpShare": 0.15,
+    "annualSpendPerBuyer": 2.304,
+    "somShare": 0.02
+  }
+}
